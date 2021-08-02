@@ -1,0 +1,15 @@
+﻿pathway,norm_enrichment_score,adj_pvalue
+Interferon gamma signaling,-3.169385806,0.012688442
+Interferon alpha/beta signaling,-3.01790204,0.012688442
+ER-phagosome pathway,-2.447770398,0.013159609
+Antigen processing-cross presentation,-2.446498077,0.013159609
+Cell cycle checkpoints,-2.31389145,0.012688442
+DNA replication,-2.245293043,0.013159609
+Mitotic G1 phase and G1/S transition,-2.104189159,0.025624437
+L1CAM interactions,2.157225746,0.027772686
+Cell junction organization,2.158249776,0.027772686
+Signaling by MET,2.382720644,0.013159609
+Extracellular matrix organization,2.402636377,0.013159609
+Syndecan interactions,2.408465517,0.012688442
+Collagen formation,2.445949731,0.013159609
+ECM proteoglycans,2.597044757,0.012688442

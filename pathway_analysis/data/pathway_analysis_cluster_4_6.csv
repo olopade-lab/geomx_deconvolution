@@ -1,0 +1,405 @@
+﻿pathway,norm_enrichment_score,adj_pvalue
+Degradation of the extracellular matrix,2.750615915,0.015855573
+Extracellular matrix organization,2.541733261,0.015855573
+Cell cycle,-2.343570182,0.015855573
+DNA replication,-2.618836513,0.015855573
+Cell cycle checkpoints,-2.44014842,0.015855573
+Interferon gamma signaling,-2.800484417,0.015855573
+Interferon signaling,-2.486358472,0.015855573
+ECM proteoglycans,2.543422176,0.01807768
+ER-phagosome pathway,-2.282663914,0.019573011
+Collagen degradation,2.355446043,0.019573011
+Collagen formation,2.427576816,0.019573011
+L1CAM interactions,2.34052874,0.019573011
+Synthesis of DNA,-2.401773631,0.019573011
+Nervous system development,2.206841198,0.019573011
+Syndecan interactions,2.327794748,0.020047141
+Assembly of collagen fibrils and other multimeric structures,2.238625698,0.023400394
+Phosphorylation of CD3 and TCR zeta chains,-2.259594055,0.023400394
+Axon guidance,2.138970245,0.023400394
+Cell junction organization,2.284942904,0.023400394
+Translocation of ZAP-70 to Immunological synapse,-2.148399098,0.032700515
+Signaling by MET,2.205214957,0.032700515
+S Phase,-2.181975314,0.032700515
+p53-dependent G1 DNA damage response,-2.098241489,0.032700515
+p53-dependent G1/S DNA damage checkpoint,-2.098241489,0.032700515
+MET activates PTK2 signaling,2.157926296,0.032700515
+Non-integrin membrane-ECM interactions,2.13853985,0.036429216
+G1/S DNA Damage Checkpoints,-2.112639347,0.036633117
+Antigen processing-Cross presentation,-2.143591964,0.036936068
+Switching of origins to a post-replicative state,-2.072919078,0.039520665
+MET promotes cell motility,2.074303699,0.039520665
+CDK-mediated phosphorylation and removal of Cdc6,-2.06375702,0.039680647
+ESR-mediated signaling,2.056964361,0.040567394
+Collagen biosynthesis and modifying enzymes,2.08920061,0.042868791
+TRAF6 mediated IRF7 activation,-2.037023685,0.046516388
+Generation of second messenger molecules,-2.024770685,0.054876392
+Mitotic G1 phase and G1/S transition,-1.968377963,0.054876392
+Hemostasis,1.812046972,0.056336906
+RNA Polymerase II Transcription,-1.72117598,0.056336906
+Platelet degranulation,1.975147743,0.059331874
+Generic Transcription Pathway,-1.722533286,0.062284972
+Signaling by NOTCH,1.876554926,0.067389491
+Signaling by NOTCH1,1.930105117,0.067389491
+Integrin cell surface interactions,1.888053088,0.067389491
+Chemokine receptors bind chemokines,-1.960645939,0.067389491
+Regulation of RUNX2 expression and activity,-1.939457296,0.067389491
+Regulation of APC/C activators between G1/S and early anaphase,-1.945307299,0.067412642
+Peptide ligand-binding receptors,-1.890723519,0.067412642
+PD-1 signaling,-1.9297659,0.067412642
+Signal transduction by L1,1.945644209,0.067412642
+Mitotic G2-G2/M phases,-1.895587335,0.067412642
+DNA Replication Pre-Initiation,-1.933286444,0.067412642
+Response to elevated platelet cytosolic Ca2+,1.8981733,0.067412642
+Signaling by Nuclear Receptors,1.860548646,0.067412642
+Interferon alpha/beta signaling,-1.918904983,0.067412642
+Cell-Cell communication,1.869216036,0.083084176
+Orc1 removal from chromatin,-1.846215183,0.083084176
+G1/S Transition,-1.871977374,0.083084176
+APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1,-1.851581964,0.084069223
+Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins,-1.849677964,0.084069223
+Signaling by VEGF,1.83529728,0.084069223
+Downstream TCR signaling,-1.82662966,0.084069223
+Binding and Uptake of Ligands by Scavenger Receptors,1.888639336,0.084069223
+RAF-independent MAPK1/3 activation,1.837966526,0.084143705
+Disease,1.587045462,0.094589727
+APC/C-mediated degradation of cell cycle proteins,-1.79833189,0.094589727
+Cdc20:Phospho-APC/C mediated degradation of Cyclin A,-1.817327824,0.094589727
+APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint,-1.817327824,0.094589727
+Regulation of mitotic cell cycle,-1.79833189,0.094589727
+DNA Double-Strand Break Repair,-1.803991751,0.094589727
+Stabilization of p53,-1.833276978,0.094589727
+Signaling by Receptor Tyrosine Kinases,1.645694143,0.094589727
+Transcriptional regulation of granulopoiesis,-1.818889211,0.094589727
+TP53 Regulates Transcription of Cell Cycle Genes,-1.785812983,0.095738
+Collagen chain trimerization,1.821003028,0.095738
+Signaling by ERBB2,1.801451168,0.102544054
+RUNX1 regulates transcription of genes involved in differentiation of HSCs,-1.774479308,0.102544054
+TCR signaling,-1.750929116,0.104110295
+DNA Repair,-1.697462807,0.104110295
+Estrogen-dependent gene expression,1.736381094,0.109768572
+Oxidative Stress Induced Senescence,-1.737929263,0.117734269
+Cytokine Signaling in Immune system,-1.453486689,0.128429223
+Signalling to ERKs,1.729969033,0.129770925
+Homology Directed Repair,-1.703882612,0.129770925
+"Platelet activation, signaling and aggregation",1.662014848,0.129770925
+Class A/1 (Rhodopsin-like receptors),-1.654133656,0.130715782
+G2/M Checkpoints,-1.701761835,0.130715782
+TRAF6 mediated NF-kB activation,-1.704732519,0.130715782
+MAP kinase activation,1.689442501,0.130776012
+SARS-CoV Infections,1.695577077,0.130776012
+Neutrophil degranulation,1.60452231,0.133262775
+Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects,-1.709426289,0.135959541
+"Defective binding of RB1 mutants to E2F1,(E2F2, E2F3)",-1.709426289,0.135959541
+Negative regulation of MAPK pathway,1.688235052,0.137349779
+APC/C:Cdc20 mediated degradation of mitotic proteins,-1.681550644,0.13794724
+VEGFA-VEGFR2 Pathway,1.659132511,0.13794724
+Assembly of the pre-replicative complex,-1.6893198,0.138413926
+Signaling by NOTCH1 PEST Domain Mutants in Cancer,1.644322763,0.142783405
+Signaling by NOTCH1 in Cancer,1.644322763,0.142783405
+Constitutive Signaling by NOTCH1 PEST Domain Mutants,1.644322763,0.142783405
+Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer,1.644322763,0.142783405
+Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants,1.644322763,0.142783405
+Interleukin-17 signaling,1.6494412,0.142783405
+Death Receptor Signalling,1.656900599,0.142783405
+Extra-nuclear estrogen signaling,1.651130578,0.142783405
+Diseases of mitotic cell cycle,-1.650321652,0.142783405
+Aberrant regulation of mitotic cell cycle due to RB1 defects,-1.650321652,0.142783405
+FBXL7 down-regulates AURKA during mitotic entry and in early mitosis,-1.64915088,0.144771734
+RUNX2 regulates bone development,1.671207246,0.144771734
+Negative regulation of NOTCH4 signaling,-1.65063684,0.145789671
+G0 and Early G1,-1.642352887,0.146174226
+Cellular Senescence,-1.597867191,0.14841249
+Notch-HLH transcription pathway,1.656499971,0.153009967
+Ovarian tumor domain proteases,1.624475076,0.161606888
+EPH-Ephrin signaling,1.617305677,0.166754418
+NCAM signaling for neurite out-growth,1.593971782,0.169602062
+Cyclin A:Cdk2-associated events at S phase entry,-1.586000412,0.169602062
+p75 NTR receptor-mediated signalling,1.582372228,0.175405952
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),1.583959012,0.176423025
+SCF(Skp2)-mediated degradation of p27/p21,-1.577823006,0.177489929
+SUMOylation,-1.556713534,0.177489929
+SUMO E3 ligases SUMOylate target proteins,-1.556713534,0.177489929
+Regulation of RUNX3 expression and activity,-1.574135164,0.177489929
+NOTCH1 Intracellular Domain Regulates Transcription,1.575493612,0.180614523
+HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA),-1.555320573,0.187135857
+Pre-NOTCH Transcription and Translation,-1.562555394,0.194300152
+Post-translational protein phosphorylation,1.560107066,0.196271008
+Post NMDA receptor activation events,1.555380899,0.197214343
+The role of GTSE1 in G2/M progression after G2 checkpoint,-1.53248208,0.199184137
+Oncogene Induced Senescence,-1.534353116,0.200626834
+Signaling by NTRK2 (TRKB),1.564002906,0.200626834
+SHC-mediated cascade:FGFR1,1.536729283,0.211387311
+FRS-mediated FGFR1 signaling,1.531716085,0.214888792
+Activated NOTCH1 Transmits Signal to the Nucleus,1.538335571,0.224796714
+Signaling by EGFR in Cancer,1.532233827,0.228753448
+Interleukin-7 signaling,-1.477332005,0.239542626
+Activation of NMDA receptors and postsynaptic events,1.488888848,0.239542626
+Hedgehog 'on' state,-1.473325027,0.240371854
+Regulation of HSF1-mediated heat shock response,1.500901382,0.246742448
+Transcriptional Regulation by TP53,-1.39913972,0.264858617
+Activation of ATR in response to replication stress,-1.453708435,0.264932273
+Regulation of TP53 Activity,-1.421072773,0.269111712
+FCERI mediated MAPK activation,1.451152038,0.279800124
+DDX58/IFIH1-mediated induction of interferon-alpha/beta,-1.414658635,0.282715648
+Downstream signaling of activated FGFR1,1.439849411,0.2851971
+Initial triggering of complement,-1.423608517,0.287058392
+Transcriptional Regulation by MECP2,1.440982353,0.287058392
+Degradation of GLI2 by the proteasome,-1.421197222,0.294076395
+Cyclin E associated events during G1/S transition,-1.418924513,0.300282628
+Cellular response to heat stress,1.426864062,0.300745646
+Antimicrobial peptides,1.421275613,0.300745646
+Signaling by Erythropoietin,1.413488375,0.307949471
+Diseases of signal transduction by growth factor receptors and second messengers,1.347986526,0.316697471
+Potential therapeutics for SARS,1.404299646,0.317958479
+Regulation of TP53 Activity through Phosphorylation,-1.385358807,0.32078534
+Signaling by ERBB4,1.389240405,0.321159219
+Adaptive Immune System,-1.29332443,0.321159219
+Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer,1.395245302,0.321159219
+Regulation of TNFR1 signaling,1.393880057,0.321159219
+Transcriptional regulation by RUNX1,-1.34476669,0.321159219
+Ub-specific processing proteases,-1.347623499,0.334624358
+GLI3 is processed to GLI3R by the proteasome,-1.35489295,0.347073873
+Host Interactions of HIV factors,-1.361206596,0.350459762
+Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha,-1.344902218,0.351182475
+Signaling by PDGF,1.351267741,0.353310384
+Regulation of Complement cascade,-1.354662286,0.353310384
+Signaling by TGF-beta Receptor Complex,1.35924348,0.354107797
+Regulation of RAS by GAPs,-1.336987233,0.354107797
+Regulation of TP53 Expression and Degradation,-1.328704594,0.354107797
+Pre-NOTCH Expression and Processing,-1.328253609,0.3685797
+activated TAK1 mediates p38 MAPK activation,1.329457658,0.373603283
+Toll Like Receptor 10 (TLR10) Cascade,1.317275704,0.374267806
+Toll Like Receptor 5 (TLR5) Cascade,1.317275704,0.374267806
+Signaling by FGFR2,1.318197964,0.374267806
+Leishmania infection,1.311024715,0.374267806
+MyD88 cascade initiated on plasma membrane,1.317275704,0.374267806
+TNFR1-induced NFkappaB signaling pathway,1.309502196,0.3808528
+Signaling by Hedgehog,-1.3005619,0.3808528
+Signaling by PTK6,1.320472453,0.3808528
+Signaling by Non-Receptor Tyrosine Kinases,1.320472453,0.3808528
+Elastic fibre formation,1.296425282,0.388562362
+Class B/2 (Secretin family receptors),1.291623981,0.388562362
+Hedgehog 'off' state,-1.288781663,0.388562362
+Signaling by FGFR3,1.292491241,0.388562362
+Interleukin-20 family signaling,-1.301385303,0.388562362
+Signaling by TGFB family members,1.297331798,0.388562362
+Interleukin-12 family signaling,-1.285419485,0.39136768
+Regulation of mRNA stability by proteins that bind AU-rich elements,1.284675356,0.398849552
+SHC-mediated cascade:FGFR3,1.286588272,0.398849552
+Negative regulators of DDX58/IFIH1 signaling,-1.274566906,0.40134655
+SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription,1.275637032,0.405315288
+FRS-mediated FGFR3 signaling,1.277573826,0.407067094
+FCERI mediated Ca+2 mobilization,1.270891108,0.414533666
+PI3K/AKT Signaling in Cancer,1.252066778,0.420054198
+"Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",1.247599926,0.435944186
+JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1,1.24633259,0.435944186
+DAP12 interactions,-1.224001502,0.447593291
+Signaling by FGFR1,1.234994711,0.447652724
+Constitutive Signaling by AKT1 E17K in Cancer,1.232744295,0.447652724
+MAPK targets/ Nuclear events mediated by MAP kinases,1.229622878,0.451311764
+G-protein mediated events,-1.201058888,0.46018904
+PLC beta mediated events,-1.201058888,0.46018904
+Downstream signaling of activated FGFR3,1.221172221,0.46018904
+Signaling by FGFR2 in disease,1.22203866,0.46018904
+HDR through Homologous Recombination (HRR),-1.209349852,0.46018904
+Deubiquitination,-1.196805675,0.46018904
+Interleukin-4 and Interleukin-13 signaling,1.213585949,0.46018904
+FCGR3A-mediated IL10 synthesis,1.224431626,0.46018904
+TNF signaling,1.214200794,0.465924115
+Cell surface interactions at the vascular wall,1.199867031,0.471081563
+Cyclin A/B1/B2 associated events during G2/M transition,-1.192651855,0.472783119
+Signaling by SCF-KIT,-1.177727579,0.473743202
+Signaling by EGFR,1.198331856,0.473743202
+G alpha (i) signalling events,-1.180751023,0.473743202
+Signaling by FGFR4,1.202133148,0.473743202
+Regulation of TP53 Degradation,-1.190068781,0.473743202
+Signaling by NOTCH2,1.191542716,0.476320527
+Opioid Signalling,1.183399936,0.48286946
+Interleukin-1 signaling,-1.166349509,0.48286946
+Signaling by RAF1 mutants,1.183741052,0.48286946
+Meiotic recombination,-1.173881058,0.483590424
+Complement cascade,-1.16761738,0.488999349
+Negative regulation of FGFR1 signaling,1.16468116,0.502440724
+Senescence-Associated Secretory Phenotype (SASP),-1.150894984,0.504338763
+Signaling by NTRKs,1.159277818,0.507719378
+SHC-mediated cascade:FGFR2,1.162520573,0.507719378
+FRS-mediated FGFR2 signaling,1.153636212,0.514020409
+Intracellular signaling by second messengers,1.143631259,0.514020409
+Toll Like Receptor 3 (TLR3) Cascade,1.138109653,0.52811683
+Costimulation by the CD28 family,-1.119926351,0.52811683
+Dual Incision in GG-NER,-1.132865219,0.52811683
+Cyclin D associated events in G1,-1.12922208,0.52811683
+G1 Phase,-1.12922208,0.52811683
+Asymmetric localization of PCP proteins,-1.122409838,0.535165368
+Signaling by BRAF and RAF fusions,1.135445108,0.536839293
+RHO GTPases Activate NADPH Oxidases,1.122534015,0.543535344
+Transcriptional regulation by RUNX2,1.126343823,0.543535344
+NCAM1 interactions,1.112277458,0.556133105
+Degradation of GLI1 by the proteasome,-1.098180431,0.556133105
+PI-3K cascade:FGFR1,1.110450741,0.556133105
+Downstream signaling of activated FGFR2,1.107674066,0.556133105
+FRS-mediated FGFR4 signaling,1.101144937,0.556133105
+SHC-mediated cascade:FGFR4,1.112175491,0.556133105
+Processing of DNA double-strand break ends,-1.095349192,0.556133105
+Signaling by NOTCH3,1.111409879,0.556133105
+Signaling by NOTCH4,1.104166496,0.556133105
+FOXO-mediated transcription,-1.085845139,0.556133105
+Signaling by KIT in disease,-1.090921153,0.556133105
+"Signaling by phosphorylated juxtamembrane, extracellular and kinase domain KIT mutants",-1.090921153,0.556133105
+Activation of BH3-only proteins,-1.092118912,0.557895294
+Transcriptional regulation by RUNX3,1.094778479,0.561031802
+NIK-->noncanonical NF-kB signaling,-1.080832549,0.567937412
+Negative regulation of the PI3K/AKT network,1.08517035,0.571776582
+Fcgamma receptor (FCGR) dependent phagocytosis,1.080333391,0.573402091
+Apoptosis,1.074951018,0.576546132
+Fc epsilon receptor (FCERI) signaling,1.072989024,0.576546132
+TP53 Regulates Metabolic Genes,1.076775122,0.576546132
+Signaling by FGFR3 in disease,1.074488393,0.576546132
+PTEN Regulation,1.084618302,0.576546132
+Signaling by FGFR3 point mutants in cancer,1.074488393,0.576546132
+Downstream signaling of activated FGFR4,1.065161067,0.579851884
+Glycolysis,1.069134851,0.579851884
+Homologous DNA Pairing and Strand Exchange,-1.057888309,0.579862697
+Presynaptic phase of homologous DNA pairing and strand exchange,-1.057888309,0.579862697
+GPVI-mediated activation cascade,1.058995807,0.581362559
+Laminin interactions,1.059714471,0.581362559
+Interleukin-1 family signaling,-1.055318397,0.581362559
+Signaling by Interleukins,-1.058448533,0.581362559
+Interleukin-12 signaling,-1.052045401,0.583176617
+Global Genome Nucleotide Excision Repair (GG-NER),-1.045944704,0.584999782
+FGFR2 ligand binding and activation,-1.043269557,0.587955666
+Activated point mutants of FGFR2,-1.043269557,0.587955666
+Phospholipase C-mediated cascade; FGFR2,-1.043269557,0.587955666
+Degradation of beta-catenin by the destruction complex,-1.030576042,0.590991185
+Signaling by moderate kinase activity BRAF mutants,1.036211716,0.590991185
+Signaling by RAS mutants,1.036211716,0.590991185
+Paradoxical activation of RAF signaling by kinase inactive BRAF,1.036211716,0.590991185
+Signaling downstream of RAS mutants,1.036211716,0.590991185
+Cellular response to hypoxia,-1.024285142,0.592937818
+NOD1/2 Signaling Pathway,1.037598045,0.592937818
+TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway,-1.035063168,0.592937818
+Factors involved in megakaryocyte development and platelet production,1.035646909,0.593349843
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane,1.02645717,0.595449323
+MyD88-independent TLR4 cascade,1.033570671,0.595449323
+Toll Like Receptor TLR1:TLR2 Cascade,1.02645717,0.595449323
+Toll Like Receptor TLR6:TLR2 Cascade,1.02645717,0.595449323
+Toll Like Receptor 2 (TLR2) Cascade,1.02645717,0.595449323
+G2/M DNA damage checkpoint,-1.014142102,0.595449323
+TRIF(TICAM1)-mediated TLR4 signaling,1.033570671,0.595449323
+"Cell death signalling via NRAGE, NRIF and NADE",1.01584456,0.599073071
+Dectin-1 mediated noncanonical NF-kB signaling,-1.006288704,0.602368578
+TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,1.018547908,0.602368578
+Phase 0 - rapid depolarisation,-1.008997647,0.602851198
+HDR through Single Strand Annealing (SSA),-1.009095662,0.602851198
+FGFR2 mutant receptor activation,1.013914695,0.604514419
+Signaling by FGFR,1.007627083,0.605072635
+Circadian Clock,-1.001195227,0.605072635
+TAK1 activates NFkB by phosphorylation and activation of IKKs complex,-0.986080477,0.615170823
+Programmed Cell Death,0.997030479,0.615170823
+Interleukin-6 family signaling,-0.991340317,0.615170823
+Toll-like Receptor Cascades,1.000015462,0.616453577
+ISG15 antiviral mechanism,0.988342377,0.617889853
+Oncogenic MAPK signaling,0.987892328,0.618917786
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell,0.991580318,0.625103357
+Antiviral mechanism by IFN-stimulated genes,0.980781308,0.625790848
+Toll Like Receptor 9 (TLR9) Cascade,0.978917451,0.625790848
+Toll Like Receptor 7/8 (TLR7/8) Cascade,0.978917451,0.625790848
+DNA Damage/Telomere Stress Induced Senescence,-0.975540946,0.625790848
+Caspase activation via extrinsic apoptotic signalling pathway,0.967068847,0.625790848
+Regulation of PTEN stability and activity,0.9701337,0.625790848
+MyD88 dependent cascade initiated on endosome,0.978917451,0.625790848
+FCERI mediated NF-kB activation,-0.967113844,0.628124205
+PCP/CE pathway,-0.960520209,0.628516847
+Interleukin-2 family signaling,-0.957251937,0.63762939
+Negative regulation of FGFR3 signaling,0.962182807,0.63762939
+Downstream signal transduction,-0.957269417,0.637935427
+Purinergic signaling in leishmaniasis infection,0.95185097,0.637935427
+Cell recruitment (pro-inflammatory response),0.95185097,0.637935427
+"PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",0.966120524,0.639088178
+DAP12 signaling,0.945920275,0.650223585
+Cytosolic sensors of pathogen-associated DNA,0.947301224,0.653928958
+Constitutive Signaling by Aberrant PI3K in Cancer,0.941973077,0.65748925
+PI-3K cascade:FGFR2,-0.935882808,0.65748925
+Signaling by NTRK1 (TRKA),0.938773476,0.657981872
+Nuclear Events (kinase and transcription factor activation),0.924129297,0.670242013
+Role of phospholipids in phagocytosis,0.915915383,0.670242013
+CD28 co-stimulation,0.922741163,0.670242013
+Intrinsic Pathway for Apoptosis,-0.919745044,0.672494092
+Transcriptional regulation of white adipocyte differentiation,-0.917363739,0.672546177
+Gap-filling DNA repair synthesis and ligation in TC-NER,-0.916655188,0.672546177
+Downstream signaling events of B Cell Receptor (BCR),0.90309401,0.696007187
+PKMTs methylate histone lysines,0.890317406,0.696007187
+Signaling by FGFR1 in disease,0.904356873,0.696007187
+Regulation of PTEN gene transcription,0.885086778,0.707183868
+Diseases of Immune System,0.879441453,0.71788508
+Diseases associated with the TLR signaling cascade,0.879441453,0.71788508
+MAPK6/MAPK4 signaling,0.882525576,0.71788508
+Activation of NF-kappaB in B cells,-0.877999319,0.721682799
+Negative regulation of FGFR2 signaling,0.87478523,0.721841982
+TNFs bind their physiological receptors,-0.874890938,0.724473403
+Transcription-Coupled Nucleotide Excision Repair (TC-NER),-0.864810552,0.733528323
+Dual incision in TC-NER,-0.864810552,0.733528323
+NGF-stimulated transcription,-0.859871578,0.74037843
+CLEC7A (Dectin-1) signaling,-0.854754033,0.751076134
+Integration of energy metabolism,-0.838077264,0.760637859
+Regulation of insulin secretion,0.8360699,0.76199547
+CD209 (DC-SIGN) signaling,0.828586588,0.76199547
+Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks,-0.837662312,0.76199547
+DNA Double Strand Break Response,-0.837662312,0.76199547
+ZBP1(DAI) mediated induction of type I IFNs,0.820171436,0.764974142
+Negative regulation of FGFR4 signaling,0.82819444,0.764974142
+FGFR1 mutant receptor activation,-0.831460853,0.768292803
+Regulation of IFNA signaling,0.815820071,0.768292803
+Formation of TC-NER Pre-Incision Complex,0.808265589,0.775745499
+TCF dependent signaling in response to WNT,-0.830876513,0.782877584
+TNFR2 non-canonical NF-kB pathway,-0.817666576,0.794132076
+PIP3 activates AKT signaling,0.818749873,0.80032679
+PI-3K cascade:FGFR3,0.788770723,0.80032679
+Meiosis,-0.783015998,0.809692042
+Signaling by WNT,-0.812194274,0.809692042
+Formation of the beta-catenin:TCF transactivating complex,0.777595048,0.809692042
+Nucleotide Excision Repair,-0.785563043,0.811172871
+Mitochondrial biogenesis,0.769174553,0.811214103
+Regulation of actin dynamics for phagocytic cup formation,0.765329516,0.811214103
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),0.770991908,0.811214103
+IGF1R signaling cascade,0.770991908,0.811214103
+Beta-catenin independent WNT signaling,0.764944566,0.811214103
+Glucose metabolism,0.762372568,0.811214103
+Insulin receptor signalling cascade,0.774116418,0.811214103
+Signaling by Insulin receptor,0.774116418,0.811214103
+Parasite infection,0.759183119,0.811214103
+Leishmania phagocytosis,0.759183119,0.811214103
+FCGR3A-mediated phagocytosis,0.759183119,0.811214103
+IRS-related events triggered by IGF1R,0.745184404,0.836535743
+PI-3K cascade:FGFR4,-0.740748768,0.84120374
+PI3K Cascade,-0.742679183,0.84190083
+Innate Immune System,0.797659714,0.847958597
+Complex I biogenesis,0.720180846,0.849078824
+MAPK family signaling cascades,0.749807644,0.851765305
+Toll Like Receptor 4 (TLR4) Cascade,0.727457581,0.861078483
+IRS-mediated signalling,0.700471833,0.868525991
+MAPK1/MAPK3 signaling,0.730025452,0.868525991
+Signaling by the B Cell Receptor (BCR),0.704464047,0.868525991
+SUMOylation of DNA damage response and repair proteins,0.678446867,0.885401588
+CD28 dependent PI3K/Akt signaling,0.67385181,0.887378948
+GPCR ligand binding,-0.71141852,0.892407195
+Interleukin receptor SHC signaling,-0.666626667,0.906683506
+Ca2+ pathway,0.64256816,0.907295942
+"Interleukin-3, Interleukin-5 and GM-CSF signaling",0.636547491,0.918991136
+Deactivation of the beta-catenin transactivating complex,0.634239169,0.923594189
+RAF/MAP kinase cascade,0.642273401,0.928164103
+"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.",0.616994428,0.92939649
+TP53 Regulates Transcription of Cell Death Genes,-0.612709767,0.931356171
+Respiratory electron transport,0.608669253,0.931356171
+RET signaling,-0.613516505,0.931356171
+Regulation of signaling by CBL,0.610910307,0.931356171
+IKK complex recruitment mediated by RIP1,0.606081063,0.931356171
+C-type lectin receptors (CLRs),-0.614751556,0.937993622
+Signaling by FGFR in disease,-0.583968649,0.957012519
+TP53 Regulates Transcription of DNA Repair Genes,-0.569961176,0.958819671
+Signaling by WNT in cancer,-0.53231932,0.975506457
+Interleukin-10 signaling,-0.528549704,0.975506457
+Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon,0.510705237,0.975506457
+FLT3 Signaling,0.487644342,0.986617314
+Antigen activates B Cell Receptor (BCR) leading to generation of second messengers,-0.373666429,0.999784992

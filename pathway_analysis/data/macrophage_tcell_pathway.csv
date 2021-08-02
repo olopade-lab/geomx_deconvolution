@@ -1,0 +1,15 @@
+﻿pathway,norm_enrichment_score,adj_pvalue
+Cell cycle,-4.410666456,0.004701228
+Mitotic G2-G2/M phases,-2.455445585,0.004701228
+Mitotic G1 phase and G1/S transition,-2.988325099,0.004701228
+DNA replication,-2.723210225,0.004701228
+Cell cycle checkpoints,-3.760115028,0.004701228
+Signaling by MET,-2.415565277,0.007992087
+Regulation of TP53 activity,-2.321514752,0.013852695
+Transcriptional regulation by TP53,-2.362718999,0.015425735
+Transcriptional regulation by RUNX2,-2.277645786,0.015425735
+Homology directed repair,-2.177412956,0.021939564
+Activation of ATR in response to replication stress,-2.184405125,0.025833404
+"Platelet activation, signaling and aggregation",-2.10573054,0.028051659
+Signaling by PDGF,-2.094601992,0.028543168
+Signalling to ERKs,-2.143070925,0.028543168
